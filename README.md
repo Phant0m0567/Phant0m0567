@@ -8,6 +8,6 @@
 
 im looking for devs dm me on discord
 
-![.](https://link-to-your-gif.com)
+![.](./logo.gif)
 
 ![.](https://komarev.com/ghpvc/?username=Phant0m0567&style=flat)
